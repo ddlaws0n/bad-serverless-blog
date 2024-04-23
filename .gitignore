@@ -1,0 +1,18 @@
+# General
+.DS_Store
+
+# Terraform files
+*.tfstate
+*.tfstate.backup
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Node.js files
+node_modules/
+npm-debug.log
+yarn-error.log
